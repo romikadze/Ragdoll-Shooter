@@ -1,4 +1,5 @@
 # Ragdoll-project
+Shooter with ragdoll mechanics
 
 ![image](https://github.com/romikadze/Ragdoll-Shooter/assets/66849784/0818c857-d428-4f02-9a77-3109f42aa0ec)
 
